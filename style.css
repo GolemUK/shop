@@ -1,0 +1,63 @@
+/* ----------------- базові стилі ---------------------- */
+
+* {
+    box-sizing: border-box;
+}
+
+p, 
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* ------------------- стилі шапки ---------------------------- */
+
+.headers {
+    
+}
+
+.logo {
+
+}
+
+.logo__a {
+}
+
+.logo__ukr {
+}
+
+.logo__b {
+}
+
+.logo__shop {
+}
+
+.nav {
+}
+
+.sub__nav {
+}
+
+.nav__link {
+}
+
+.sub__menu {
+}
+
+.contact {
+}
+
+.avtorize {
+}
+
+.registration {
+}
