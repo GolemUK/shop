@@ -1,0 +1,50 @@
+.headers{
+    background: linear-gradient(0deg, rgba(186,195,34,0.8519782913165266) 0%, rgba(58,161,242,0.8295693277310925) 100%);
+}
+
+.headers .container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+}
+
+.logo {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.logo__ukr {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: var(--typical-lh);
+    letter-spacing: 0.03em;
+    color: #1f2830;
+}
+
+.logo__b {
+}
+
+.logo__shop {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: var(--typical-lh);
+    letter-spacing: 0.03em;
+    color: #1f2830;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.sub__menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-content: center;
+}

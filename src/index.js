@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import './index.css'; // Якщо у вас є стилі
+ // Якщо у вас є стилі
 
 ReactDOM.render(
   <React.StrictMode>
